@@ -1,2 +1,7 @@
+
 # Desafio-Portfolio
- Desafio discover
+ Desafio discover / Rocketseat
+ # TECNOLOGIA 
+ - HTML
+ - CSS
+ - JavaScript
